@@ -1,10 +1,16 @@
-// In this exercise we're adding and multiplying fractions, the answers given are in decimal, but using the methods learned and applied in the previous exercises and reading material we're able to simply calculate and print to screen the answers.
+/**
+* @author Jacob Smith
+* In this exercise we're adding and multiplying fractions, the answers given
+* are in decimal, but using the methods learned and applied in the previous
+* exercises and reading material we're able to simply calculate and print to
+* screen the answers.
+*/
 
-public class Ex4 
+public class Ex4
 	{
-	public static void main(String[] args) 
+	public static void main(String[] args)
 	{
-	
+
 	double es; //e sum
 	double ds; //d sum
 	double ep; //e product

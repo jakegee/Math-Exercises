@@ -1,12 +1,17 @@
-/* In this exercise we are simply converting imperial mass into kilograms utilising the scanner tool*/
-import java.util.Scanner; 
+/**
+* @author Jacob Smith
+* In this exercise we are simply converting imperial mass into kilograms
+* utilising the scanner tool
+*/
+
+import java.util.Scanner;
 
 public class Ex2 {
 	public static void main(String[] args) {
 
 	Scanner input = new Scanner (System.in);
 
-	float ton;	/* I learned about float from the website listed further in the 			program for part A*/ 
+	float ton;	// I learned about float from the website listed further in the 			program for part A*/
 	float hundredweight;
 	float quarter;
 	float stone;
